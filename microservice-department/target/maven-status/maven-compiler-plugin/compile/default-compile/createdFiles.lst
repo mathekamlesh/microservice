@@ -1,0 +1,5 @@
+com/springboot/learn/repository/DepartmentRepository.class
+com/springboot/learn/entity/Department.class
+com/springboot/learn/controller/DepartmentController.class
+com/springboot/learn/service/DepartmentService.class
+com/springboot/learn/DepartmentServiceApp.class
